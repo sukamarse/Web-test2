@@ -1,0 +1,4 @@
+(function(){var loadHandler=window['sl_{BAF4E49A-A977-4CE7-A248-F36A1A73F498}'];loadHandler&&loadHandler(40, '<div id="spr0_1cc66f6f"><div id="spr1_1cc66f6f" class="kern slide"><img id="img2_1cc66f6f" src="data/img118.jpg" width="540px" height="405px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1cc66f6f" class="kern slide"><div id="spr3_1cc66f6f" style="left:10px;top:260px;"><img id="img0_1cc66f6f" src="data/img116.png" width="484" height="144" alt="Lớp lớp mây cao đùn núi bạc,\
+Chim nghiêng cánh nhỏ óng chiều sa.\
+Lòng quê dợn dợn vời con nước,\
+Không khói hoàng hôn cũng nhớ nhà."/></div><div id="spr4_1cc66f6f" style="left:108px;top:36px;"><img id="img1_1cc66f6f" src="data/img117.png" width="325" height="75" alt="Đường Thi"/></div></div></div>');})();

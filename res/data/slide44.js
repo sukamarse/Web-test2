@@ -1,0 +1,4 @@
+(function(){var loadHandler=window['sl_{BAF4E49A-A977-4CE7-A248-F36A1A73F498}'];loadHandler&&loadHandler(43, '<div id="spr0_1cc67971"><div id="spr1_1cc67971" class="kern slide"><img id="img2_1cc67971" src="data/img118.jpg" width="540px" height="405px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1cc67971" class="kern slide"><div id="spr3_1cc67971" style="left:30px;top:16px;"><img id="img0_1cc67971" src="data/img125.png" width="482" height="143" alt="&quot;dợn dợn&quot; là từ láy nguyên sáng tạo của Huy Cận, hô ứng cùng cụm từ “vời con nước” cho thấy một nổi niềm bâng khuâng, cô đơn của “lòng quê”. "/></div><div id="spr4_1cc67971" style="left:10px;top:252px;"><img id="img1_1cc67971" src="data/img126.png" width="484" height="71" alt="Lớp lớp mây cao đùn núi bạc,\
+Chim nghiêng cánh nhỏ óng chiều sa.\
+Lòng quê dợn dợn vời con nước,\
+Không khói hoàng hôn cũng nhớ nhà."/></div></div></div>');})();
