@@ -1,5 +1,0 @@
-(function(){var loadHandler=window['sl_{BAF4E49A-A977-4CE7-A248-F36A1A73F498}'];loadHandler&&loadHandler(13, '<div id="spr0_1cc60309"><div id="spr1_1cc60309" class="kern slide"><img id="img2_1cc60309" src="data/img4.jpg" width="540px" height="405px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1cc60309" class="kern slide"><div id="spr3_1cc60309" style="left:3.5px;top:1.5px;"><img id="img0_1cc60309" src="data/img48.png" width="535" height="91" alt="Phát hiện chất thơ biểu hiện tinh vi, phong phú  trong đời thường"/></div><div id="spr4_1cc60309" style="left:13.5px;top:121px;"><img id="img1_1cc60309" src="data/img49.png" width="505" height="182" alt="  Anh tặng em buổi sáng hôm nay \
-  Có hoa sen nở hồ Tây trắng hồng \
-  Tặng em trời mát như sông \
-  Trong veo chảy giữa đôi dòng cây xanh. \
-				(Buổi sáng hôm nay)"/></div></div></div>');})();

@@ -1,4 +1,0 @@
-(function(){var loadHandler=window['sl_{BAF4E49A-A977-4CE7-A248-F36A1A73F498}'];loadHandler&&loadHandler(34, '<div id="spr0_1cc65ba8"><div id="spr1_1cc65ba8" class="kern slide"><img id="img1_1cc65ba8" src="data/img99.png" width="540px" height="405px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1cc65ba8" class="kern slide"><div id="spr3_1cc65ba8" style="left:24px;top:34px;"><img id="img0_1cc65ba8" src="data/img100.png" width="486" height="335" alt="“xuống” và “lên” đem lại cảm giác chuyển động rõ rệt\
-“chót vót”: từ láy đặc tả chiều cao nhưng được dùng để chỉ chiều sâu.\
-”sâu”: vừa tả được độ cao vừa gợi được tâm trạng con người  Đó chính là sự rợn ngợp của hồn người trước cái vô cùng của vũ trụ.\
-“Bến cô liêu” chính là cái tôi mang nỗi “sầu vạn kỉ” của Huy Cận"/></div></div></div>');})();

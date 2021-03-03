@@ -1,3 +1,0 @@
-(function(){var loadHandler=window['sl_{BAF4E49A-A977-4CE7-A248-F36A1A73F498}'];loadHandler&&loadHandler(42, '<div id="spr0_1cc676f1"><div id="spr1_1cc676f1" class="kern slide"><img id="img1_1cc676f1" src="data/img118.jpg" width="540px" height="405px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1cc676f1" class="kern slide"><div id="spr3_1cc676f1" style="left:30px;top:41px;"><img id="img0_1cc676f1" src="data/img124.png" width="490" height="288" alt=" Mối sầu của “Tràng giang” không chỉ là “nỗi sầu vạn lý” mà còn là “mối sầu vạn kỉ “\
-\
- Tâm trạng và lòng yêu quê hương sâu kín của nhà thơ.Tình  yêu đó mang nỗi buồn sông núi, nỗi buồn về đất nước."/></div></div></div>');})();

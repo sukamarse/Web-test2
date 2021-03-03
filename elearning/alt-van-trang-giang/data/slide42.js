@@ -1,7 +1,0 @@
-(function(){var loadHandler=window['sl_{BAF4E49A-A977-4CE7-A248-F36A1A73F498}'];loadHandler&&loadHandler(41, '<div id="spr0_1cc6727c"><div id="spr1_1cc6727c" class="kern slide"><img id="img5_1cc6727c" src="data/img118.jpg" width="540px" height="405px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1cc6727c" class="kern slide"><div id="spr3_1cc6727c" style="left:13px;top:291px;"><img id="img0_1cc6727c" src="data/img119.png" width="478" height="41" alt="Lớp lớp mây cao đùn núi bạc,\
-Chim nghiêng cánh nhỏ óng chiều sa.\
-Lòng quê dợn dợn vời con nước,\
-Không khói hoàng hôn cũng nhớ nhà."/></div><div id="spr4_1cc6727c" style="left:10px;top:260px;"><img id="img1_1cc6727c" src="data/img120.png" width="377" height="35" alt="Lớp lớp mây cao đùn núi bạc,\
-Chim nghiêng cánh nhỏ óng chiều sa.\
-Lòng quê dợn dợn vời con nước,\
-Không khói hoàng hôn cũng nhớ nhà."/></div><div id="spr5_1cc6727c" style="left:52px;top:79px;"><img id="img2_1cc6727c" src="data/img121.png" width="100" height="81" alt=""/></div><div id="spr6_1cc6727c" style="left:52px;top:145px;"><img id="img3_1cc6727c" src="data/img122.png" width="100" height="82" alt=""/></div><div id="spr7_1cc6727c" style="left:162px;top:35px;"><img id="img4_1cc6727c" src="data/img123.png" width="370" height="262" alt="Cánh chim là biểu tượng của cái tôi nhỏ nhoi, cô độc trước cuộc đời ảm đạm. Cánh chim vốn là dấu hiệu của sự sống nhưng cái mầm sống ấy xuất hiện khi hoàng hôn đang tàn và nỗi sầu dậy khắp bầu trời."/></div></div></div>');})();
